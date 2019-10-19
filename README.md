@@ -1,4 +1,4 @@
-## Automation-testcafePOC
+## Automation-webdriverIOPOC
 
 This is a proof of concept using webdriverIO framework with javascript language.
 
