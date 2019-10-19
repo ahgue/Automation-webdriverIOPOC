@@ -1,6 +1,6 @@
 ## Automation-testcafePOC
 
-This is a proof of concept using testcafe framework with javascript language.
+This is a proof of concept using webdriverIO framework with javascript language.
 
 # Steps:
 1. Clone the repository `git clone git@github.com:ahgue/Automation-webdriverIOPOC.git`.
